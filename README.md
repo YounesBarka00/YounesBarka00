@@ -1,4 +1,4 @@
-# Hi, I'm Younes
+# Hi, I'm Younes :)
 
 System Developer based in Göteborg, Sweden.
 
