@@ -24,5 +24,5 @@ github.com/YounesBarka00/AnimeVerse
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/younesbarka  
+- LinkedIn: [LinkedIn](https://linkedin.com/in/younesbarka)
 - Email: younes1929@outlook.com
