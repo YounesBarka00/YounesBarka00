@@ -19,7 +19,7 @@ Web-based application for exploring anime information.
 **Tech:**  
 C#, .NET, ASP.NET Core, MVC, REST API, xUnit
 
-GitHub Repository at the moment:  
+**GitHub Repository at the moment:**  
 github.com/YounesBarka00/AnimeVerse
 
 ## Contact
