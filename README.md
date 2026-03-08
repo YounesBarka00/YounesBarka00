@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Younes
 
-<!--
-**YounesBarka00/YounesBarka00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Developer based in Göteborg, Sweden.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: C#, Java, JavaScript  
+- Web: HTML, CSS, ASP.NET Core, MVC, UX / User-Centered Design  
+- Mobile: Android, React Native  
+- Backend: .NET, REST APIs  
+- Databases: SQL, Database design  
+- Methods: OOP, Algorithms & Data Structures, TDD, Agile
+
+## Projects
+
+### AnimeVerse
+Web-based application for exploring anime information.
+
+**Tech:**  
+C#, .NET, ASP.NET Core, MVC, REST API, xUnit
+
+GitHub Repository at the moment:  
+github.com/YounesBarka00/AnimeVerse
+
+## Contact
+
+- LinkedIn: linkedin.com/in/younesbarka  
+- Email: younes1929@outlook.com
