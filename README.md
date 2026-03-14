@@ -2,7 +2,7 @@
 
 System developer based in Gothenburg, Sweden.
 
-I build web, backend and mobile applications using technologies such as C#, .NET and Android with Kotlin.  
+I build frontend, backend and mobile applications, including REST APIs, web interfaces and Android applications.  
 My focus is on developing structured and maintainable systems using modern software architecture and development practices.
 
 ---
@@ -15,8 +15,8 @@ C#, Java, JavaScript, Python, Kotlin
 Backend  
 .NET, ASP.NET Core, REST API development
 
-Web  
-HTML, CSS, ASP.NET Core MVC
+Frontend / Web  
+HTML, CSS, ASP.NET Core MVC, Razor Views
 
 Mobile  
 Android, Kotlin, Jetpack Compose, React Native, MVVM
@@ -35,7 +35,7 @@ Object-Oriented Programming (OOP), Algorithms & Data Structures, Test Driven Dev
 
 Web application for searching and exploring anime information using the Jikan REST API.
 
-Tech  
+Technologies  
 C#, .NET, ASP.NET Core MVC, REST API, xUnit, HTML, CSS
 
 Repository  
@@ -47,7 +47,7 @@ https://github.com/YounesBarka00/AnimeVerse
 
 Android application for personal finance management.
 
-Tech  
+Technologies  
 Kotlin, Android, Jetpack Compose, MVVM, Clean Architecture, Room Database, Hilt
 
 Repository  
