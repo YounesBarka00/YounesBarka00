@@ -1,28 +1,64 @@
-# Hi, I'm Younes :)
+# Younes Barka
 
-System Developer based in Göteborg, Sweden.
+System developer based in Gothenburg, Sweden.
+
+I build web, backend and mobile applications using technologies such as C#, .NET and Android with Kotlin.  
+My focus is on developing structured and maintainable systems using modern software architecture and development practices.
+
+---
 
 ## Tech Stack
 
-- Languages: C#, Java, JavaScript  
-- Web: HTML, CSS, ASP.NET Core, MVC, UX / User-Centered Design  
-- Mobile: Android, React Native  
-- Backend: .NET, REST APIs  
-- Databases: SQL, Database design  
-- Methods: OOP, Algorithms & Data Structures, TDD, Agile
+Programming Languages  
+C#, Java, JavaScript, Python, Kotlin
+
+Backend  
+.NET, ASP.NET Core, REST API development
+
+Web  
+HTML, CSS, ASP.NET Core MVC
+
+Mobile  
+Android, Kotlin, Jetpack Compose, React Native, MVVM
+
+Databases  
+SQL, Database design
+
+Software Development  
+Object-Oriented Programming (OOP), Algorithms & Data Structures, Test Driven Development (TDD), Agile
+
+---
 
 ## Projects
 
 ### AnimeVerse
-Web-based application for exploring anime information.
 
-**Tech:**  
-C#, .NET, ASP.NET Core, MVC, REST API, xUnit
+Web application for searching and exploring anime information using the Jikan REST API.
 
-**GitHub Repository at the moment:**  
-github.com/YounesBarka00/AnimeVerse
+Tech  
+C#, .NET, ASP.NET Core MVC, REST API, xUnit, HTML, CSS
+
+Repository  
+https://github.com/YounesBarka00/AnimeVerse
+
+---
+
+### FinanceTracker
+
+Android application for personal finance management.
+
+Tech  
+Kotlin, Android, Jetpack Compose, MVVM, Clean Architecture, Room Database, Hilt
+
+Repository  
+https://github.com/YounesBarka00/FinanceTracker
+
+---
 
 ## Contact
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/younes-barka-b5b45136a/)
-- Email: younes1929@outlook.com
+LinkedIn  
+https://www.linkedin.com/in/younes-barka-b5b45136a
+
+Email  
+younes1929@outlook.com
